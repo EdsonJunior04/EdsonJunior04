@@ -1,12 +1,12 @@
-<br><br><br>
+<!-- <br><br><br>
 <div align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&weight=100&size=24&duration=2500&pause=600&color=00F716&center=true&width=500&lines=Procurando+um+novo+membro%3F;Saiba+que+eu+posso+te+ajudar!;Dê+uma+olhadinha+abaixo+%F0%9F%98%89%3A](https://readme-typing-svg.herokuapp.com/?font=Share+Tech&weight=100&size=24&duration=2500&pause=600&color=00F716&center=true&width=500&lines=Looking+for+a+new+member%3F;Know+that+I+can+help!;Take+a+look+bellow+%F0%9F%98%89%3A)" alt="Typing SVG" /></a>
-</div>
+</div> -->
 <br><br><br>
 
 <div align="center">
     <h2>SKILLS</h2><br>
-    <div>
+    <!-- <div>
         <img src="https://skillicons.dev/icons?i=jenkins">
         <img src="https://skillicons.dev/icons?i=bitbucket">
         <img src="https://skillicons.dev/icons?i=linux">
@@ -39,7 +39,7 @@
         <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
         <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
         <img src="https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white">
-        </div>
+        </div> -->
     </div>
     <!-- <br> -->
     <!-- <div align="center">
@@ -67,7 +67,7 @@
 * 🏅 Linux Unhatched Certification :penguin: 
 * 🏅 Cisco Introduction to Networks Certification :large_blue_circle: 
 * 🏅 Cisco Packet Tracer Certification :large_blue_circle:  -->
-
+<!-- 
 # Other certificates:
 
 * 🏅 Professional Google Cloud Architect - GCP ✅
@@ -77,7 +77,7 @@
 * 🏅 Amazon EKS Kubernetes - Udemy ✅
 * 🏅 Terraform on AWS - IaC DevOps - Udemy ✅
 * 🏅 Docker - Udemy ✅
-* 🏅 Google Cloud - Udemy ✅ 
+* 🏅 Google Cloud - Udemy ✅  -->
 
 <!-- <br><br> -->
 
