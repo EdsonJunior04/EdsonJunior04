@@ -3,38 +3,46 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&weight=100&size=24&duration=2500&pause=600&color=00F716&center=true&width=500&lines=Procurando+um+novo+membro%3F;Saiba+que+eu+posso+te+ajudar!;Dê+uma+olhadinha+abaixo+%F0%9F%98%89%3A](https://readme-typing-svg.herokuapp.com/?font=Share+Tech&weight=100&size=24&duration=2500&pause=600&color=00F716&center=true&width=500&lines=Looking+for+a+new+member%3F;Know+that+I+can+help!;Take+a+look+bellow+%F0%9F%98%89%3A)" alt="Typing SVG" /></a>
 </div> -->
 <br><br><br>
+<div align="center">
+  <a href="https://github.com/Leal-Matheus">
+  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=EdsonJunior04&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonJunior04&langs_count=10&layout=compact&theme=transparent&locale=pt-br&hide_progress=true"/>
+</div>
 
 <div align="center">
-    <h2>HABILIDADES</h2><br>
+    <h2>HABILIDADES DESENVOLVEDOR</h2><br>
     <div>
-        <img src="https://skillicons.dev/icons?i=linux">
-        <img src="https://skillicons.dev/icons?i=bash">
         <img src="https://skillicons.dev/icons?i=github">
-        <img src="https://skillicons.dev/icons?i=aws">
         <img src="https://skillicons.dev/icons?i=mysql">
         <img src="https://skillicons.dev/icons?i=mongodb">
-        <img src="https://skillicons.dev/icons?i=docker">
-        <img src="https://skillicons.dev/icons?i=terraform">
         <img src="https://skillicons.dev/icons?i=vscode">
         <img src="https://skillicons.dev/icons?i=visualstudio">
-        <img src="https://skillicons.dev/icons?i=wordpress">
-        <img src="https://skillicons.dev/icons?i=windows">
         <img src="https://skillicons.dev/icons?i=git">
         <img src="https://skillicons.dev/icons?i=python">
-        <img src="https://skillicons.dev/icons?i=azure">
         <img src="https://skillicons.dev/icons?i=postman">
         <img src="https://skillicons.dev/icons?i=react">
         <img src="https://skillicons.dev/icons?i=cs">
         <img src="https://skillicons.dev/icons?i=java">
         <img src="https://skillicons.dev/icons?i=spring">
         <img src="https://skillicons.dev/icons?i=js">
-        <img src="https://skillicons.dev/icons?i=yarn">
         <img src="https://skillicons.dev/icons?i=nodejs">
-        <img src="https://skillicons.dev/icons?i=npm">
-        <img src="https://skillicons.dev/icons?i=css">
-        <img src="https://skillicons.dev/icons?i=html">
         <img src="https://skillicons.dev/icons?i=dotnet">
         <img src="https://skillicons.dev/icons?i=figma">
+    </div>
+    <br>
+
+<div align="center">
+    <h2>HABILIDADES DEVOPS</h2><br>
+    <div>
+        <img src="https://skillicons.dev/icons?i=linux">
+        <img src="https://skillicons.dev/icons?i=bash">
+        <img src="https://skillicons.dev/icons?i=github">
+        <img src="https://skillicons.dev/icons?i=aws">
+        <img src="https://skillicons.dev/icons?i=docker">
+        <img src="https://skillicons.dev/icons?i=terraform">
+        <img src="https://skillicons.dev/icons?i=windows">
+        <img src="https://skillicons.dev/icons?i=git">
+        <img src="https://skillicons.dev/icons?i=azure">
         <img src="https://skillicons.dev/icons?i=githubactions">
         <!-- <div align="center">
         <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=whit">
@@ -48,7 +56,7 @@
         <img src="https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white">
         </div> -->
     </div>
-    <br>
+   <br><br>
     <div align="center">
         <h2>APRENDENDO TECNOLOGIAS</h2><br>
         <img src="https://skillicons.dev/icons?i=kubernetes">
