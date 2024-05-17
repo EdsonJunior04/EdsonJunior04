@@ -4,9 +4,9 @@
 </div> -->
 <br><br><br>
 <div align="center">
-  <a href="https://github.com/Leal-Matheus">
-  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=EdsonJunior04&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonJunior04&langs_count=10&layout=compact&theme=transparent&locale=pt-br&hide_progress=true"/>
+  <a href="https://github.com/EdsonJunior04">
+  <img height=200 src="https://github-readme-stats-ten-gilt.vercel.app/api?username=EdsonJunior04&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonJunior04&langs_count=10&layout=compact&theme=dark&locale=pt-br&hide_progress=true"/>
 </div>
 
 <div align="center">
@@ -116,6 +116,6 @@
 
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EdsonJunior04&theme=dark"> <br><br><br>
-<img src="https://komarev.com/ghpvc/?username=EdsonJunior04">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EdsonJunior04&theme=dark&locale=pt-br"> <br><br><br>
+<img src="https://komarev.com/ghpvc/?username=EdsonJunior04&locale=pt-br">
 </div>
