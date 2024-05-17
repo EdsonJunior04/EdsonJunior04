@@ -108,6 +108,6 @@
 
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cl0uD-C1SC0&theme=dark"> <br><br><br>
-<img src="https://komarev.com/ghpvc/?username=cl0uD-C1SC0">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EdsonJunior04&theme=dark"> <br><br><br>
+<img src="https://komarev.com/ghpvc/?username=EdsonJunior04">
 </div>
