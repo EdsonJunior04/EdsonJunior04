@@ -44,17 +44,9 @@
         <img src="https://skillicons.dev/icons?i=git">
         <img src="https://skillicons.dev/icons?i=azure">
         <img src="https://skillicons.dev/icons?i=githubactions">
-        <!-- <div align="center">
-        <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=whit">
-        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-        <img src="https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044">
-        <img src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white">
-        <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white">
-        <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white">
-        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
+        <div align="center">
         <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
-        <img src="https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white">
-        </div> -->
+        </div>
     </div>
    <br><br>
     <div align="center">
@@ -63,6 +55,9 @@
         <img src="https://skillicons.dev/icons?i=prometheus">
         <img src="https://skillicons.dev/icons?i=grafana">
         <img src="https://skillicons.dev/icons?i=flask">
+       <div align="center">
+        <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white">
+        </div>
        <div align="center">
           <!-- <img src="https://cdn.qwiklabs.com/F7DHV3%2F3IupOJ0U9U6F2yUFut9r02Yi1%2BoeBrHXcCdw%3D" width="120">
           <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100"> -->
