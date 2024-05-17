@@ -5,31 +5,38 @@
 <br><br><br>
 
 <div align="center">
-    <h2>SKILLS</h2><br>
-    <!-- <div>
-        <img src="https://skillicons.dev/icons?i=jenkins">
-        <img src="https://skillicons.dev/icons?i=bitbucket">
+    <h2>HABILIDADES</h2><br>
+    <div>
         <img src="https://skillicons.dev/icons?i=linux">
         <img src="https://skillicons.dev/icons?i=bash">
-        <img src="https://skillicons.dev/icons?i=gcp">
         <img src="https://skillicons.dev/icons?i=github">
         <img src="https://skillicons.dev/icons?i=aws">
         <img src="https://skillicons.dev/icons?i=mysql">
+        <img src="https://skillicons.dev/icons?i=mongodb">
         <img src="https://skillicons.dev/icons?i=docker">
         <img src="https://skillicons.dev/icons?i=terraform">
-        <img src="https://skillicons.dev/icons?i=kubernetes">
         <img src="https://skillicons.dev/icons?i=vscode">
+        <img src="https://skillicons.dev/icons?i=visualstudio">
+        <img src="https://skillicons.dev/icons?i=wordpress">
         <img src="https://skillicons.dev/icons?i=windows">
-        <img src="https://skillicons.dev/icons?i=prometheus">
-        <img src="https://skillicons.dev/icons?i=grafana">
         <img src="https://skillicons.dev/icons?i=git">
-        <img src="https://skillicons.dev/icons?i=nginx">
-        <img src="https://skillicons.dev/icons?i=flask">
         <img src="https://skillicons.dev/icons?i=python">
         <img src="https://skillicons.dev/icons?i=azure">
-        <img src="https://skillicons.dev/icons?i=ansible">
         <img src="https://skillicons.dev/icons?i=postman">
-        <div align="center">
+        <img src="https://skillicons.dev/icons?i=react">
+        <img src="https://skillicons.dev/icons?i=cs">
+        <img src="https://skillicons.dev/icons?i=java">
+        <img src="https://skillicons.dev/icons?i=spring">
+        <img src="https://skillicons.dev/icons?i=js">
+        <img src="https://skillicons.dev/icons?i=yarn">
+        <img src="https://skillicons.dev/icons?i=nodejs">
+        <img src="https://skillicons.dev/icons?i=npm">
+        <img src="https://skillicons.dev/icons?i=css">
+        <img src="https://skillicons.dev/icons?i=html">
+        <img src="https://skillicons.dev/icons?i=dotnet">
+        <img src="https://skillicons.dev/icons?i=figma">
+        <img src="https://skillicons.dev/icons?i=githubactions">
+        <!-- <div align="center">
         <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=whit">
         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
         <img src="https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044">
@@ -41,18 +48,18 @@
         <img src="https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white">
         </div> -->
     </div>
-    <!-- <br> -->
-    <!-- <div align="center">
-        <h2>INTERNATIONAL CERTIFICATES</h2><br>
-        <img src="https://templates.images.credential.net/16590181582433100721069374350922.png" width="100" hspace="10">
-        <img src="https://templates.images.credential.net/16590187933301617801540872729153.png" width="100">
-        <img src="https://images.credly.com/size/680x680/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png" width="100" hspace="10">
-        <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="100">
+    <br>
+    <div align="center">
+        <h2>APRENDENDO TECNOLOGIAS</h2><br>
+        <img src="https://skillicons.dev/icons?i=kubernetes">
+        <img src="https://skillicons.dev/icons?i=prometheus">
+        <img src="https://skillicons.dev/icons?i=grafana">
+        <img src="https://skillicons.dev/icons?i=flask">
        <div align="center">
           <img src="https://cdn.qwiklabs.com/F7DHV3%2F3IupOJ0U9U6F2yUFut9r02Yi1%2BoeBrHXcCdw%3D" width="120">
           <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100">
        </div>
-    </div> -->
+    </div>
 </div>
 <br><br>
 
