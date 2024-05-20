@@ -2,16 +2,34 @@
 <div align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&weight=100&size=24&duration=2500&pause=600&color=00F716&center=true&width=500&lines=Procurando+um+novo+membro%3F;Saiba+que+eu+posso+te+ajudar!;Dê+uma+olhadinha+abaixo+%F0%9F%98%89%3A](https://readme-typing-svg.herokuapp.com/?font=Share+Tech&weight=100&size=24&duration=2500&pause=600&color=00F716&center=true&width=500&lines=Looking+for+a+new+member%3F;Know+that+I+can+help!;Take+a+look+bellow+%F0%9F%98%89%3A)" alt="Typing SVG" /></a>
 </div> -->
+
+# Olá! Eu sou o Edson Junior.
+<br />
+
+<!-- ## Sobre mim
+
+<br /> -->
+
+<div>
+  <h2>🎓 Formação Acadêmica 🎓</h2> 
+ ⚙️ Cursando Tecnologo em Análise em Desenvolvimento de Sistemas - Escola SENAI Armando de Arruda Pereira <br>
+ 💻 Cursando Técnico em Redes de Computadores - Escola Senai Paulo Antonio Skaf <br>
+ 💻 Técnico em Desenvolvimento de Sistemas - Escola Senai de Informática - Santa Cecília <br>
+</div>
+
 <br><br><br>
-<div align="center">
+<div>
+    <h2>Informações sobre minha conta GitHub</h2><br>
   <a href="https://github.com/EdsonJunior04">
   <img height=200 src="https://github-readme-stats-ten-gilt.vercel.app/api?username=EdsonJunior04&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonJunior04&langs_count=10&layout=compact&theme=dark&locale=pt-br&hide_progress=true"/>
 </div>
 
-<div align="center">
-    <h2>HABILIDADES DESENVOLVEDOR</h2><br>
+<br><br><br>
+
+<div>
     <div>
+        <h2>Habilidades de Desenvolvedor</h2><br>
         <img src="https://skillicons.dev/icons?i=github">
         <img src="https://skillicons.dev/icons?i=mysql">
         <img src="https://skillicons.dev/icons?i=mongodb">
@@ -31,10 +49,13 @@
     </div>
     <br>
 
-<div align="center">
-    <h2>HABILIDADES DEVOPS</h2><br>
+<div>
+    <h2>Habilidades de DevOps</h2><br>
     <div>
         <img src="https://skillicons.dev/icons?i=linux">
+        <img src="https://skillicons.dev/icons?i=kali">
+        <img src="https://skillicons.dev/icons?i=ubuntu">
+        <img src="https://skillicons.dev/icons?i=debian">
         <img src="https://skillicons.dev/icons?i=bash">
         <img src="https://skillicons.dev/icons?i=github">
         <img src="https://skillicons.dev/icons?i=aws">
@@ -44,21 +65,21 @@
         <img src="https://skillicons.dev/icons?i=git">
         <img src="https://skillicons.dev/icons?i=azure">
         <img src="https://skillicons.dev/icons?i=githubactions">
-        <div align="center">
+        <div>
         <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
         </div>
-    </div>
+       
    <br><br>
-    <div align="center">
-        <h2>APRENDENDO TECNOLOGIAS</h2><br>
+    <div>
+        <h2>Aprendendo Novas Tecnologias</h2><br>
         <img src="https://skillicons.dev/icons?i=kubernetes">
         <img src="https://skillicons.dev/icons?i=prometheus">
         <img src="https://skillicons.dev/icons?i=grafana">
         <img src="https://skillicons.dev/icons?i=flask">
-       <div align="center">
+       <div>
         <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white">
         </div>
-       <div align="center">
+       <div>
           <!-- <img src="https://cdn.qwiklabs.com/F7DHV3%2F3IupOJ0U9U6F2yUFut9r02Yi1%2BoeBrHXcCdw%3D" width="120">
           <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100"> -->
        </div>
