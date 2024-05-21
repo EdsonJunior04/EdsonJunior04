@@ -10,82 +10,100 @@
 
 <br /> -->
 
-<div>
-  <h2>🎓 Formação Acadêmica 🎓</h2> 
+## 🎓 Formação Acadêmica 🎓
  ⚙️ Cursando Tecnologo em Análise em Desenvolvimento de Sistemas - Escola SENAI Armando de Arruda Pereira <br>
  💻 Cursando Técnico em Redes de Computadores - Escola Senai Paulo Antonio Skaf <br>
  💻 Técnico em Desenvolvimento de Sistemas - Escola Senai de Informática - Santa Cecília <br>
-</div>
 
-<br><br><br>
-<div>
-    <h2>Informações sobre minha conta GitHub</h2><br>
+
+
+## Informações sobre minha conta GitHub
   <a href="https://github.com/EdsonJunior04">
   <img height=200 src="https://github-readme-stats-ten-gilt.vercel.app/api?username=EdsonJunior04&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonJunior04&langs_count=10&layout=compact&theme=dark&locale=pt-br&hide_progress=true"/>
-</div>
 
-<br><br><br>
 
-<div>
-    <div>
-        <h2>Habilidades de Desenvolvedor</h2><br>
-        <img src="https://skillicons.dev/icons?i=github">
-        <img src="https://skillicons.dev/icons?i=mysql">
-        <img src="https://skillicons.dev/icons?i=mongodb">
-        <img src="https://skillicons.dev/icons?i=vscode">
-        <img src="https://skillicons.dev/icons?i=visualstudio">
-        <img src="https://skillicons.dev/icons?i=git">
-        <img src="https://skillicons.dev/icons?i=python">
-        <img src="https://skillicons.dev/icons?i=postman">
-        <img src="https://skillicons.dev/icons?i=react">
-        <img src="https://skillicons.dev/icons?i=cs">
-        <img src="https://skillicons.dev/icons?i=java">
-        <img src="https://skillicons.dev/icons?i=spring">
-        <img src="https://skillicons.dev/icons?i=js">
-        <img src="https://skillicons.dev/icons?i=nodejs">
-        <img src="https://skillicons.dev/icons?i=dotnet">
-        <img src="https://skillicons.dev/icons?i=figma">
-    </div>
-    <br>
 
-<div>
-    <h2>Habilidades de DevOps</h2><br>
-    <div>
-        <img src="https://skillicons.dev/icons?i=linux">
-        <img src="https://skillicons.dev/icons?i=kali">
-        <img src="https://skillicons.dev/icons?i=ubuntu">
-        <img src="https://skillicons.dev/icons?i=debian">
-        <img src="https://skillicons.dev/icons?i=bash">
-        <img src="https://skillicons.dev/icons?i=github">
-        <img src="https://skillicons.dev/icons?i=aws">
-        <img src="https://skillicons.dev/icons?i=docker">
-        <img src="https://skillicons.dev/icons?i=terraform">
-        <img src="https://skillicons.dev/icons?i=windows">
-        <img src="https://skillicons.dev/icons?i=git">
-        <img src="https://skillicons.dev/icons?i=azure">
-        <img src="https://skillicons.dev/icons?i=githubactions">
-        <div>
-        <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
-        </div>
+## Habilidades de Desenvolvedor
        
-   <br><br>
-    <div>
-        <h2>Aprendendo Novas Tecnologias</h2><br>
-        <img src="https://skillicons.dev/icons?i=kubernetes">
-        <img src="https://skillicons.dev/icons?i=prometheus">
-        <img src="https://skillicons.dev/icons?i=grafana">
-        <img src="https://skillicons.dev/icons?i=flask">
-       <div>
-        <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white">
-        </div>
-       <div>
-          <!-- <img src="https://cdn.qwiklabs.com/F7DHV3%2F3IupOJ0U9U6F2yUFut9r02Yi1%2BoeBrHXcCdw%3D" width="120">
+### Desenvolvimento Front-End:
+| React | Figma | JavaScript |
+|---------|---------|---------|
+| <img src="https://skillicons.dev/icons?i=react" title="react" alt="React" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=figma" title="figma" alt="Figma" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=js" title="javascript" alt="JavaScript" width="55" height="55">
+       
+### Desenvolvimento Back-End:
+
+| Python | Postman | Java | C# | Spring | NodeJS | DotNet |
+|---------|---------|---------|---------|---------|---------|---------|
+| <img src="https://skillicons.dev/icons?i=python" title="python" alt="Python" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=postman" title="postman" alt="Postman" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=java" title="java" alt="Java" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=cs" title="csharp" alt="C#" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=spring" title="spring" alt="Spring" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=nodejs" title="nodejs" alt="NodeJS" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=dotnet" title="dotnet" alt="DotNet" width="55" height="55">|
+      
+### Controle de Versionamento:
+| GitHub | Git |
+|---------|---------|
+| <img src="https://skillicons.dev/icons?i=github" title="github" alt="GitHub" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=git" title="git" alt="Git" width="55" height="55"> |
+       
+### Banco de Dados:
+| MongoDB | MySQL |
+|---------|---------|
+| <img src="https://skillicons.dev/icons?i=mongodb" title="mongodb" alt="MongoDB" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=mysql" title="mysql" alt="MySQL" width="55" height="55"> |
+  
+      
+### IDEs:
+| VisualStudio | VSCode |
+|---------|---------|
+|<img src="https://skillicons.dev/icons?i=visualstudio" title="visualstudio" alt="Git" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=vscode" title="vscode" alt="VSCode" width="55" height="55"> |
+            
+
+
+
+## Habilidades de DevOps
+### Sistemas Operacionais:
+| Linux | Windows |
+|---------|---------|
+| <img src="https://skillicons.dev/icons?i=linux" title="linux" alt="Linux" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=windows" title="windows" alt="Windows" width="55" height="55"> |
+
+### Distribuições Linux:
+| Kali | Ubuntu | Debian |
+|---------|---------|---------|
+|<img src="https://skillicons.dev/icons?i=kali" title="kali" alt="Kali" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=ubuntu" title="ubuntu" alt="Ubuntu" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=debian" title="debian" alt="Debian" width="55" height="55"> |
+
+### Gerenciador de Pacotes:
+| Bash | 
+|---------|
+|<img src="https://skillicons.dev/icons?i=bash" title="bash" alt="Bash" width="55" height="55"> |
+
+### Controle de Versionamento:
+| GitHubActions | GitHub | Git |
+|---------|---------|---------|
+| <img src="https://skillicons.dev/icons?i=githubactions" title="githubactions" alt="GiHubActions" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=github" title="github" alt="GitHub" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=git" title="git" alt="Git" width="55" height="55"> |
+
+### Computação em Nuvem:
+| AWS | Azure |
+|---------|---------|
+| <img src="https://skillicons.dev/icons?i=aws" title="aws" alt="AWS" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=azure" title="azure" alt="Azure" width="55" height="55"> |
+
+### Contêinerização:
+| Bash | 
+|---------|
+| <img src="https://skillicons.dev/icons?i=docker" title="docker" alt="Docker" width="55" height="55"> |
+
+### Infraestrutura como Código:
+| Bash | 
+|---------|
+| <img src="https://skillicons.dev/icons?i=terraform" title="terraform" alt="Terraform" width="55" height="55"> |
+
+
+## Aprendendo Novas Tecnologias
+<img src="https://skillicons.dev/icons?i=kubernetes">
+<img src="https://skillicons.dev/icons?i=prometheus">
+<img src="https://skillicons.dev/icons?i=grafana">
+<img src="https://skillicons.dev/icons?i=flask">
+<div>
+<img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white">
+
+<!-- <img src="https://cdn.qwiklabs.com/F7DHV3%2F3IupOJ0U9U6F2yUFut9r02Yi1%2BoeBrHXcCdw%3D" width="120">
           <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100"> -->
-       </div>
-    </div>
-</div>
-<br><br>
+
 
 <!-- # ACHIEVEMENTS:
 * 🥇 Representative of Modality #53 AWS Cloud Computing - For the State of São Paulo in 2022 - Shanghai ☁️ Edition
@@ -117,17 +135,16 @@
 <a href="https://drive.google.com/file/d/1BVoyjVcuToYgWOX-1VWa65rqnuq-11Ik/view?usp=sharing"><img src="https://cdn-icons-png.flaticon.com/512/6614/6614677.png" width="80"></a>
 </div> -->
 
-<br><br>
-<div align="center">
-    <h2>CONTATO</h2>
-    <p align="center">
-    <a href="https://www.linkedin.com/in/edson-junior-965887227/"><img src="https://skillicons.dev/icons?i=linkedin" width="50" hspace="0" vspace="15"></a>
-    </p>
+
+
+  ## CONTATO<
+<p align="center">
+    <a href="https://www.linkedin.com/in/edsonjunior04/"><img src="https://skillicons.dev/icons?i=linkedin" width="50" hspace="0" vspace="15"></a>
+</p>
     <p align="center">
     Desenvolvedor, Computação em Nuvem & DevOps Github <br>
     by: Edson Junior ☁️
     </p>
-</div>
 
 
 
