@@ -87,8 +87,6 @@
 |---------|---------|---------|---------|---------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="kubernetes" alt="Kubernetes" display="flex" justifyContent="center" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="prometheus" alt="Prometheus" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="grafana" alt="Grafana" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="Flask" width="55" height="55"> | <img src="https://github.com/actions/starter-workflows/blob/main/icons/snyk.svg" title="snyk" alt="Snyk" width="55" height="55" > |
 
- <img src="https://cdn.qwiklabs.com/F7DHV3%2F3IupOJ0U9U6F2yUFut9r02Yi1%2BoeBrHXcCdw%3D" width="120">
-          <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100">
 
 
 <!-- # ACHIEVEMENTS:
