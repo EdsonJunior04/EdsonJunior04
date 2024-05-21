@@ -1,8 +1,3 @@
-<!-- <br><br><br>
-<div align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&weight=100&size=24&duration=2500&pause=600&color=00F716&center=true&width=500&lines=Procurando+um+novo+membro%3F;Saiba+que+eu+posso+te+ajudar!;Dê+uma+olhadinha+abaixo+%F0%9F%98%89%3A](https://readme-typing-svg.herokuapp.com/?font=Share+Tech&weight=100&size=24&duration=2500&pause=600&color=00F716&center=true&width=500&lines=Looking+for+a+new+member%3F;Know+that+I+can+help!;Take+a+look+bellow+%F0%9F%98%89%3A)" alt="Typing SVG" /></a>
-</div> -->
-
 # Olá! Eu sou o Edson Junior.
 <br />
 
@@ -21,37 +16,33 @@
   <a href="https://github.com/EdsonJunior04">
   <img height=200 src="https://github-readme-stats-ten-gilt.vercel.app/api?username=EdsonJunior04&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonJunior04&langs_count=10&layout=compact&theme=dark&locale=pt-br&hide_progress=true"/>
-
+  </a>
 
 
 ## Habilidades de Desenvolvedor
        
 ### Desenvolvimento Front-End:
-| React | Figma | JavaScript |
+| React | Figma | JavaScript | 
 |---------|---------|---------|
-| <img src="https://skillicons.dev/icons?i=react" title="react" alt="React" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=figma" title="figma" alt="Figma" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=js" title="javascript" alt="JavaScript" width="55" height="55">
+| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="React" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="Figma" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript" alt="JavaScript" width="55" height="55">
        
 ### Desenvolvimento Back-End:
 
-| Python | Postman | Java | C# | Spring | NodeJS | DotNet |
+| C# | DotNet | Java | Spring | Python | NodeJS | Postman |
 |---------|---------|---------|---------|---------|---------|---------|
-| <img src="https://skillicons.dev/icons?i=python" title="python" alt="Python" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=postman" title="postman" alt="Postman" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=java" title="java" alt="Java" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=cs" title="csharp" alt="C#" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=spring" title="spring" alt="Spring" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=nodejs" title="nodejs" alt="NodeJS" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=dotnet" title="dotnet" alt="DotNet" width="55" height="55">|
-      
-### Controle de Versionamento:
-| GitHub | Git |
-|---------|---------|
-| <img src="https://skillicons.dev/icons?i=github" title="github" alt="GitHub" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=git" title="git" alt="Git" width="55" height="55"> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="C#" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnet" alt="DotNet" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="Java" width="55" height="55"> |  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="spring" alt="Spring" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="Python" width="55" height="55"> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="Postman" width="55" height="55"> |
+
        
 ### Banco de Dados:
-| MongoDB | MySQL |
-|---------|---------|
-| <img src="https://skillicons.dev/icons?i=mongodb" title="mongodb" alt="MongoDB" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=mysql" title="mysql" alt="MySQL" width="55" height="55"> |
+| MongoDB | MySQL | SQL Server |
+|---------|---------|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="MongoDB" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="MySQL" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="sqlserver" alt="SQL Server" width="55" height="55">
   
       
 ### IDEs:
-| VisualStudio | VSCode |
-|---------|---------|
-|<img src="https://skillicons.dev/icons?i=visualstudio" title="visualstudio" alt="Git" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=vscode" title="vscode" alt="VSCode" width="55" height="55"> |
+| VisualStudio | VSCode | Android Studio
+|---------|---------|---------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="visualstudio" alt="VisualStudio" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="VSCode" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="androidstudio" alt="AndroidStudio" width="55" height="55"> |
             
 
 
@@ -67,42 +58,37 @@
 |---------|---------|---------|
 |<img src="https://skillicons.dev/icons?i=kali" title="kali" alt="Kali" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=ubuntu" title="ubuntu" alt="Ubuntu" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=debian" title="debian" alt="Debian" width="55" height="55"> |
 
-### Gerenciador de Pacotes:
-| Bash | 
-|---------|
-|<img src="https://skillicons.dev/icons?i=bash" title="bash" alt="Bash" width="55" height="55"> |
 
 ### Controle de Versionamento:
 | GitHubActions | GitHub | Git |
 |---------|---------|---------|
-| <img src="https://skillicons.dev/icons?i=githubactions" title="githubactions" alt="GiHubActions" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=github" title="github" alt="GitHub" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=git" title="git" alt="Git" width="55" height="55"> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="githubactions" alt="GiHubActions" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=github" title="github" alt="GitHub" width="55" height="55"> |  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="Git" width="55" height="55"> |
 
 ### Computação em Nuvem:
 | AWS | Azure |
 |---------|---------|
-| <img src="https://skillicons.dev/icons?i=aws" title="aws" alt="AWS" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=azure" title="azure" alt="Azure" width="55" height="55"> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" alt="AWS" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" alt="Azure" width="55" height="55"> |
 
 ### Contêinerização:
-| Bash | 
+| Docker | 
 |---------|
-| <img src="https://skillicons.dev/icons?i=docker" title="docker" alt="Docker" width="55" height="55"> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="Docker" width="55" height="55"> |
+
 
 ### Infraestrutura como Código:
-| Bash | 
+| Terraform | 
 |---------|
-| <img src="https://skillicons.dev/icons?i=terraform" title="terraform" alt="Terraform" width="55" height="55"> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="terraform" alt="Terraform" width="55" height="55"> |
 
 
-## Aprendendo Novas Tecnologias
-<img src="https://skillicons.dev/icons?i=kubernetes">
-<img src="https://skillicons.dev/icons?i=prometheus">
-<img src="https://skillicons.dev/icons?i=grafana">
-<img src="https://skillicons.dev/icons?i=flask">
-<div>
-<img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white">
+## Interesse em:
+### Ferramentas
+| Kubernetes | Prometheus | Grafana | Flask | Snyk |
+|---------|---------|---------|---------|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="kubernetes" alt="Kubernetes" display="flex" justifyContent="center" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="prometheus" alt="Prometheus" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="grafana" alt="Grafana" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="Flask" width="55" height="55"> | <img src="https://github.com/actions/starter-workflows/blob/main/icons/snyk.svg" title="snyk" alt="Snyk" width="55" height="55" > |
 
-<!-- <img src="https://cdn.qwiklabs.com/F7DHV3%2F3IupOJ0U9U6F2yUFut9r02Yi1%2BoeBrHXcCdw%3D" width="120">
-          <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100"> -->
+ <img src="https://cdn.qwiklabs.com/F7DHV3%2F3IupOJ0U9U6F2yUFut9r02Yi1%2BoeBrHXcCdw%3D" width="120">
+          <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100">
 
 
 <!-- # ACHIEVEMENTS:
@@ -134,10 +120,10 @@
 <h2>ACCESS MY RESUME</h2>
 <a href="https://drive.google.com/file/d/1BVoyjVcuToYgWOX-1VWa65rqnuq-11Ik/view?usp=sharing"><img src="https://cdn-icons-png.flaticon.com/512/6614/6614677.png" width="80"></a>
 </div> -->
+<!-- Usar esses icons -->
+<!-- https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg -->
 
-
-
-  ## CONTATO<
+## CONTATO
 <p align="center">
     <a href="https://www.linkedin.com/in/edsonjunior04/"><img src="https://skillicons.dev/icons?i=linkedin" width="50" hspace="0" vspace="15"></a>
 </p>
@@ -145,8 +131,6 @@
     Desenvolvedor, Computação em Nuvem & DevOps Github <br>
     by: Edson Junior ☁️
     </p>
-
-
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdsonJunior04&theme=dark&locale=pt-br"> <br><br><br>
