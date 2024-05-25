@@ -1,14 +1,14 @@
 # Olá! Eu sou o Edson Junior.
 <br />
 
-<!-- ## Sobre mim
+## Sobre mim
+Entusiasta de tecnologia cursando tecnólogo de Análise em Desenvolvimento de Sistemas e Técnico de Redes em Computadores com ênfase em Desenvolvimento de Software e certificação técnica em Desenvolvimento de Sistemas. Apaixonado por resolver problemas e aprender novas tecnologias, estou buscando uma oportunidade para iniciar minha carreira como Desenvolvedor de Software ou Engenheiro DevOps. Minha formação acadêmica e cursos técnicos proporcionaram uma base sólida em linguagens de programação, conceitos de desenvolvimento de software e infraestrutura de redes. Estou ansioso para aplicar meu conhecimento teórico em um ambiente profissional e contribuir de forma significativa para projetos desafiadores. Sou um aprendiz rápido, dedicado a me desenvolver profissionalmente e comprometido em acompanhar as tendências e práticas emergentes do setor de tecnologia.
 
-<br /> -->
 
 ## 🎓 Formação Acadêmica 🎓
  ⚙️ Cursando Tecnologo em Análise em Desenvolvimento de Sistemas - Escola SENAI Armando de Arruda Pereira <br>
  💻 Cursando Técnico em Redes de Computadores - Escola Senai Paulo Antonio Skaf <br>
- 💻 Técnico em Desenvolvimento de Sistemas - Escola Senai de Informática - Santa Cecília <br>
+ 💻 Formado em Técnico em Desenvolvimento de Sistemas - Escola Senai de Informática - Santa Cecília <br>
 
 
 
@@ -89,30 +89,11 @@
 
 
 
-<!-- # ACHIEVEMENTS:
-* 🥇 Representative of Modality #53 AWS Cloud Computing - For the State of São Paulo in 2022 - Shanghai ☁️ Edition
-* 🥇 Medal of 🥈 the Knowledge Olympiad - SENAI :closed_book:
-* 🥇 Google Professional Cloud Architect :cloud:
-* 🥇 Google Associate Cloud Engineer :cloud:
-* 🥇 AWS Certified Cloud Practitioner :cloud:
-* 🏅 AWS Graduate Certification :cloud: 
-* 🏅 Linux Essentials Certification :penguin: 
-* 🏅 Linux Unhatched Certification :penguin: 
+# ACHIEVEMENTS:
+
 * 🏅 Cisco Introduction to Networks Certification :large_blue_circle: 
-* 🏅 Cisco Packet Tracer Certification :large_blue_circle:  -->
-<!-- 
-# Other certificates:
+* 🏅 Cisco Packet Tracer Certification :large_blue_circle:  
 
-* 🏅 Professional Google Cloud Architect - GCP ✅
-* 🏅 Associate Google Cloud Engineer - GCP ✅
-* 🏅 AWS Cloud Practitioner - AWS ✅
-* 🏅 Amazon ECS & Fargate - Udemy ✅
-* 🏅 Amazon EKS Kubernetes - Udemy ✅
-* 🏅 Terraform on AWS - IaC DevOps - Udemy ✅
-* 🏅 Docker - Udemy ✅
-* 🏅 Google Cloud - Udemy ✅  -->
-
-<!-- <br><br> -->
 
 <!-- <div align="center">
 <h2>ACCESS MY RESUME</h2>
