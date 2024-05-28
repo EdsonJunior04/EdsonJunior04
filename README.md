@@ -7,8 +7,8 @@ Entusiasta de tecnologia cursando tecnólogo de Análise em Desenvolvimento de S
 
 ## 🎓 Formação Acadêmica 🎓
  ⚙️ Cursando Tecnologo em Análise em Desenvolvimento de Sistemas - Escola SENAI Armando de Arruda Pereira <br>
- 💻 Cursando Técnico em Redes de Computadores - Escola Senai Paulo Antonio Skaf <br>
  💻 Formado em Técnico em Desenvolvimento de Sistemas - Escola Senai de Informática - Santa Cecília <br>
+ 💻 Cursando Técnico em Redes de Computadores - Escola Senai Paulo Antonio Skaf <br>
 
 
 
@@ -89,10 +89,12 @@ Entusiasta de tecnologia cursando tecnólogo de Análise em Desenvolvimento de S
 
 
 
-# ACHIEVEMENTS:
+# Conquistas:
 
-* 🏅 Cisco Introduction to Networks Certification :large_blue_circle: 
-* 🏅 Cisco Packet Tracer Certification :large_blue_circle:  
+* 🏅 CCNA: Introduction to Networks Certification  
+* 🏅 CCNA: Switching, Routing, and Wireless Essentials   
+* 🏅 Microsoft Certified: Azure Fundamentals   
+* 🏅 Microsoft Certified: Azure AI Fundamentals   
 
 
 <!-- <div align="center">
