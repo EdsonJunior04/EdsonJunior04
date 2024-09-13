@@ -22,9 +22,9 @@ Entusiasta de tecnologia cursando tecnólogo de Análise em Desenvolvimento de S
 ## Conhecimentos de Desenvolvedor
        
 ### Desenvolvimento Front-End:
-| React | Figma | JavaScript | 
-|---------|---------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="React" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="Figma" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript" alt="JavaScript" width="55" height="55">
+| React | Figma | JavaScript | Angular |
+|---------|---------|---------|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="React" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="Figma" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript" alt="JavaScript" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="javascript" alt="JavaScript" width="55" height="55"> |
        
 ### Desenvolvimento Back-End:
 
@@ -65,9 +65,9 @@ Entusiasta de tecnologia cursando tecnólogo de Análise em Desenvolvimento de S
 | <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="githubactions" alt="GiHubActions" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=github" title="github" alt="GitHub" width="55" height="55"> |  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="Git" width="55" height="55"> |
 
 ### Computação em Nuvem:
-| AWS | Azure |
-|---------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" alt="AWS" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" alt="Azure" width="55" height="55"> |
+| AWS | Azure | GCP |
+|---------|---------|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" alt="AWS" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" alt="Azure" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="azure" alt="Azure" width="55" height="55"> |
 
 ### Contêinerização:
 | Docker | 
@@ -75,17 +75,28 @@ Entusiasta de tecnologia cursando tecnólogo de Análise em Desenvolvimento de S
 | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="Docker" width="55" height="55"> |
 
 
+### Orquestração:
+| Kurbernetes | 
+|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="kubernetes" alt="Kubernetes" display="flex" justifyContent="center" width="55" height="55"> |
+
+
 ### Infraestrutura como Código:
 | Terraform | 
 |---------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="terraform" alt="Terraform" width="55" height="55"> |
 
+### Monitoramento:
+| Prometheus | Grafana |
+|---------|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="prometheus" alt="Prometheus" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="grafana" alt="Grafana" width="55" height="55"> |
+
 
 ## Interesse em:
 ### Ferramentas
-| Kubernetes | Prometheus | Grafana | Flask | Snyk |
-|---------|---------|---------|---------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="kubernetes" alt="Kubernetes" display="flex" justifyContent="center" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="prometheus" alt="Prometheus" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="grafana" alt="Grafana" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="Flask" width="55" height="55"> | <img src="https://github.com/actions/starter-workflows/blob/main/icons/snyk.svg" title="snyk" alt="Snyk" width="55" height="55" > |
+| Flask | Snyk |
+|---------|---------|
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="Flask" width="55" height="55"> | <img src="https://github.com/actions/starter-workflows/blob/main/icons/snyk.svg" title="snyk" alt="Snyk" width="55" height="55" > |
 
 
 
@@ -109,8 +120,8 @@ Entusiasta de tecnologia cursando tecnólogo de Análise em Desenvolvimento de S
     <a href="https://www.linkedin.com/in/edsonjunior04/"><img src="https://skillicons.dev/icons?i=linkedin" width="50" hspace="0" vspace="15"></a>
 </p>
     <p align="center">
-    Desenvolvedor, Computação em Nuvem & DevOps Github <br>
-    by: Edson Junior ☁️
+    Desenvolvedor, Computação em Nuvem, DataOps & DevOps Github <br>
+    by: Edson Junior 💻 ☁️
     </p>
 
 <div align="center">
