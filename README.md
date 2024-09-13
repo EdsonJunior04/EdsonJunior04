@@ -19,7 +19,7 @@ Entusiasta de tecnologia cursando tecnólogo de Análise em Desenvolvimento de S
   </a>
 
 
-## Habilidades de Desenvolvedor
+## Conhecimentos de Desenvolvedor
        
 ### Desenvolvimento Front-End:
 | React | Figma | JavaScript | 
@@ -47,7 +47,7 @@ Entusiasta de tecnologia cursando tecnólogo de Análise em Desenvolvimento de S
 
 
 
-## Habilidades de DevOps
+## Conhecimento da cultura DevOps
 ### Sistemas Operacionais:
 | Linux | Windows |
 |---------|---------|
