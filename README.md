@@ -6,7 +6,7 @@ Entusiasta de tecnologia cursando tecnólogo de Análise em Desenvolvimento de S
 
 
 ## 🎓 Formação Acadêmica 🎓
- ⚙️ Cursando Tecnologo em Análise em Desenvolvimento de Sistemas - Escola SENAI Armando de Arruda Pereira <br>
+ ⚙️ Formado em Tecnologo em Análise em Desenvolvimento de Sistemas - Escola SENAI Armando de Arruda Pereira <br>
  💻 Formado em Técnico em Desenvolvimento de Sistemas - Escola Senai de Informática - Santa Cecília <br>
  💻 Cursando Técnico em Redes de Computadores - Escola Senai Paulo Antonio Skaf <br>
 
