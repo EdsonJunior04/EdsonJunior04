@@ -1,15 +1,26 @@
 # Olá! Eu sou o Edson Junior.
 <br />
 
-## Sobre mim
-Entusiasta de tecnologia cursando tecnólogo de Análise em Desenvolvimento de Sistemas e Técnico de Redes em Computadores com ênfase em Desenvolvimento de Software e certificação técnica em Desenvolvimento de Sistemas. Apaixonado por resolver problemas e aprender novas tecnologias, estou buscando uma oportunidade para iniciar minha carreira como Desenvolvedor de Software ou Engenheiro DevOps. Minha formação acadêmica e cursos técnicos proporcionaram uma base sólida em linguagens de programação, conceitos de desenvolvimento de software e infraestrutura de redes. Estou ansioso para aplicar meu conhecimento teórico em um ambiente profissional e contribuir de forma significativa para projetos desafiadores. Sou um aprendiz rápido, dedicado a me desenvolver profissionalmente e comprometido em acompanhar as tendências e práticas emergentes do setor de tecnologia.
+## 👨‍💻 Sobre mim
+Sou um profissional de Tecnologia da Informação com experiência em automação, infraestrutura como código, nuvem e monitoramento de sistemas. Tenho uma formação sólida em Redes de Computadores e Análise e Desenvolvimento de Sistemas, com experiência prática em Data Science e Suporte de TI. Estou sempre buscando oportunidades de aplicar minhas habilidades para otimizar ambientes de TI, melhorar a eficiência operacional e garantir a escalabilidade e a segurança das infraestruturas.
+
+Minhas áreas de interesse incluem a implementação de soluções em nuvem, automação de processos, gerenciamento de infraestrutura, e a integração entre desenvolvimento e operações. Busco constantemente evoluir minhas habilidades para enfrentar novos desafios e contribuir de forma significativa para o sucesso dos projetos em que estou envolvido.
+
+## 💼 Objetivo Profissional
+Estou em busca de uma oportunidade como DevOps Engineer ou Infrastructure Engineer, onde possa aplicar minha experiência em automação de infraestrutura, infraestrutura como código e computação em nuvem para criar soluções escaláveis, eficientes e seguras. Tenho como objetivo contribuir para o crescimento da organização, melhorando a colaboração entre equipes e otimizando processos de desenvolvimento e operações.
+O que eu busco:
+
+ * Automação e Otimização: Busco aplicar soluções de automação para otimizar processos e reduzir a sobrecarga manual.
+ * Infraestrutura Escalável: Foco em criar infraestruturas resilientes, escaláveis e seguras em ambientes de nuvem.
+ * Aprendizado Contínuo: Estou comprometido com o aprimoramento contínuo das minhas habilidades para estar sempre à frente nas novas tendências e tecnologias.
 
 
 ## 🎓 Formação Acadêmica 🎓
  ⚙️ Formado em Tecnologo em Análise em Desenvolvimento de Sistemas - Escola SENAI Armando de Arruda Pereira <br>
  💻 Formado em Técnico em Desenvolvimento de Sistemas - Escola Senai de Informática - Santa Cecília <br>
- 💻 Cursando Técnico em Redes de Computadores - Escola Senai Paulo Antonio Skaf <br>
+ 💻 Formado em Técnico em Redes de Computadores - Escola Senai Paulo Antonio Skaf <br>
 
+## 📊 Projetos Pessoais
 
 
 ## Informações sobre minha conta GitHub
@@ -18,36 +29,7 @@ Entusiasta de tecnologia cursando tecnólogo de Análise em Desenvolvimento de S
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonJunior04&langs_count=10&layout=compact&theme=dark&locale=pt-br&hide_progress=true"/>
   </a>
 
-
-## Conhecimentos de Desenvolvedor
-       
-### Desenvolvimento Front-End:
-| React | Figma | JavaScript | Angular |
-|---------|---------|---------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="React" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="Figma" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript" alt="JavaScript" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="javascript" alt="JavaScript" width="55" height="55"> |
-       
-### Desenvolvimento Back-End:
-
-| C# | DotNet | Java | Spring | Python | NodeJS | Postman |
-|---------|---------|---------|---------|---------|---------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="C#" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnet" alt="DotNet" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="Java" width="55" height="55"> |  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="spring" alt="Spring" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="Python" width="55" height="55"> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="Postman" width="55" height="55"> |
-
-       
-### Banco de Dados:
-| MongoDB | MySQL | SQL Server |
-|---------|---------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="MongoDB" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="MySQL" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="sqlserver" alt="SQL Server" width="55" height="55">
-  
-      
-### IDEs:
-| VisualStudio | VSCode | Android Studio
-|---------|---------|---------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="visualstudio" alt="VisualStudio" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="VSCode" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="androidstudio" alt="AndroidStudio" width="55" height="55"> |
-            
-
-
-
-## Conhecimento da cultura DevOps
+## 🛠️ DevOps / Infraestrutura
 ### Sistemas Operacionais:
 | Linux | Windows |
 |---------|---------|
@@ -98,14 +80,39 @@ Entusiasta de tecnologia cursando tecnólogo de Análise em Desenvolvimento de S
 |---------|---------|
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="Flask" width="55" height="55"> | <img src="https://github.com/actions/starter-workflows/blob/main/icons/snyk.svg" title="snyk" alt="Snyk" width="55" height="55" > |
 
+## 🛠️ Conhecimentos de Desenvolvedor
+       
+### Desenvolvimento Front-End:
+| React | Figma | JavaScript | Angular |
+|---------|---------|---------|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="React" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="Figma" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript" alt="JavaScript" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="javascript" alt="JavaScript" width="55" height="55"> |
+       
+### Desenvolvimento Back-End:
+
+| C# | DotNet | Java | Spring | Python | NodeJS | Postman |
+|---------|---------|---------|---------|---------|---------|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="C#" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnet" alt="DotNet" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="Java" width="55" height="55"> |  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="spring" alt="Spring" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="Python" width="55" height="55"> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="Postman" width="55" height="55"> |
+
+       
+### Banco de Dados:
+| MongoDB | MySQL | SQL Server |
+|---------|---------|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="MongoDB" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="MySQL" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="sqlserver" alt="SQL Server" width="55" height="55">
+  
+      
+### IDEs:
+| VisualStudio | VSCode | Android Studio
+|---------|---------|---------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="visualstudio" alt="VisualStudio" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="VSCode" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="androidstudio" alt="AndroidStudio" width="55" height="55"> |
+            
 
 
-# Conquistas:
+# 🏅Conquistas:
 
-* 🏅 CCNA: Introduction to Networks Certification  
-* 🏅 CCNA: Switching, Routing, and Wireless Essentials   
-* 🏅 Microsoft Certified: Azure Fundamentals   
-* 🏅 Microsoft Certified: Azure AI Fundamentals   
+* CCNA: Introduction to Networks Certification  
+* CCNA: Switching, Routing, and Wireless Essentials   
+* Microsoft Certified: Azure Fundamentals   
+* Microsoft Certified: Azure AI Fundamentals   
 
 
 ## CURRÍCULO
