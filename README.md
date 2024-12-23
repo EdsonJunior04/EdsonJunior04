@@ -54,9 +54,9 @@ Entusiasta de tecnologia cursando tecnólogo de Análise em Desenvolvimento de S
 | <img src="https://skillicons.dev/icons?i=linux" title="linux" alt="Linux" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=windows" title="windows" alt="Windows" width="55" height="55"> |
 
 ### Distribuições Linux:
-| Kali | Ubuntu | Debian |
-|---------|---------|---------|
-|<img src="https://skillicons.dev/icons?i=kali" title="kali" alt="Kali" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=ubuntu" title="ubuntu" alt="Ubuntu" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=debian" title="debian" alt="Debian" width="55" height="55"> |
+| Kali | Ubuntu | Debian | Fedora |
+|---------|---------|---------|---------|
+|<img src="https://skillicons.dev/icons?i=kali" title="kali" alt="Kali" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=ubuntu" title="ubuntu" alt="Ubuntu" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=debian" title="debian" alt="Debian" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="fedora" alt="fedora" width="55" height="55"> |
 
 
 ### Controle de Versionamento:
@@ -87,9 +87,9 @@ Entusiasta de tecnologia cursando tecnólogo de Análise em Desenvolvimento de S
 | <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="terraform" alt="Terraform" width="55" height="55"> |
 
 ### Monitoramento:
-| Prometheus | Grafana |
-|---------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="prometheus" alt="Prometheus" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="grafana" alt="Grafana" width="55" height="55"> |
+| Prometheus | Grafana | InfluxDB |
+|---------|---------|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="prometheus" alt="Prometheus" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="grafana" alt="Grafana" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original.svg" title="influxdb" alt="influxdb" width="55" height="55"> |
 
 
 ## Interesse em:
@@ -108,12 +108,12 @@ Entusiasta de tecnologia cursando tecnólogo de Análise em Desenvolvimento de S
 * 🏅 Microsoft Certified: Azure AI Fundamentals   
 
 
-<!-- <div align="center">
-<h2>ACCESS MY RESUME</h2>
-<a href="https://drive.google.com/file/d/1BVoyjVcuToYgWOX-1VWa65rqnuq-11Ik/view?usp=sharing"><img src="https://cdn-icons-png.flaticon.com/512/6614/6614677.png" width="80"></a>
-</div> -->
-<!-- Usar esses icons -->
-<!-- https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg -->
+## CURRÍCULO
+ <div align="center">
+  <a href="https://drive.google.com/file/d/1DZK0u54lnrMRvfXTGFMg7LlNloe3_G4K/view?usp=sharing"><img src="https://cdn-icons-png.flaticon.com/512/6614/6614677.png" width="80"></a>
+ </div>
+ 
+
 
 ## CONTATO
 <p align="center">
@@ -125,6 +125,5 @@ Entusiasta de tecnologia cursando tecnólogo de Análise em Desenvolvimento de S
     </p>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EdsonJunior04&theme=dark&locale=pt-br"> <br><br><br>
 <img src="https://komarev.com/ghpvc/?username=EdsonJunior04&locale=pt-br">
 </div>
