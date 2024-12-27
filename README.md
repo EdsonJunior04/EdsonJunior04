@@ -20,7 +20,7 @@ O que eu busco:
  💻 Formado em Técnico em Desenvolvimento de Sistemas - Escola Senai de Informática - Santa Cecília <br>
  💻 Formado em Técnico em Redes de Computadores - Escola Senai Paulo Antonio Skaf <br>
 
-## 📊 Projetos Pessoais
+<!-- ## 📊 Projetos Pessoais -->
 
 
 ## Informações sobre minha conta GitHub
